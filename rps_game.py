@@ -1,3 +1,13 @@
+'''
+
+https://github.com/lijnati/Python-Projects
+
+To play the game, you can simply run the Python script. The program will display the options and ask you to enter your choice. The program will then determine the winner.
+
+Note: You can play the game by using either the full name of the option (rock, paper, scissors) or the short name (r, p, s).
+
+'''
+
 import random
 
 def game_choice(user_choice):
